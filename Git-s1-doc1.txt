@@ -1,0 +1,4 @@
+
+Preguntas del examen final de Informatica: 
+1. ¿Qué significa la palabra informática? 
+2. ¿A qué se llama BIT?. ¿Qué valores tiene?
