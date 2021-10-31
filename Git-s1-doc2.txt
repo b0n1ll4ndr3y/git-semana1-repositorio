@@ -1,0 +1,4 @@
+
+Respuestas del examen final de Informatica: 
+R1/: Es la ciencia del tratamiento automático y racional de la información. 
+R2/: La unidad de información elegida en un alfabeto de 2 símbolos (binario). 0 o 1.
